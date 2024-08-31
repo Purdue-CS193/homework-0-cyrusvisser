@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Cyrus First CS193 Homework
+
+- I like the people
+- I like the homework
+- I like the professors
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
